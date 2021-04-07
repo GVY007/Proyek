@@ -1,2 +1,4 @@
-# Proyek
-I'am Newbie I'no create script I'm try create the script
+Hello I'm GVY007 
+story.txt
+story-joe-edit.txt
+story-joe-edit-reviewed 
